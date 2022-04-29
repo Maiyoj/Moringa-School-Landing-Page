@@ -4,6 +4,8 @@
 }
 
 
+/* logo */
+
 /* menu */
 .menu{
     float:right;
@@ -69,13 +71,21 @@
 
 .home p{
     font-size: 20px;
+
+
 }
 
 h1{
     color: #EC4067;
+    
 }
 
 h4{font-weight:  normal;
     font-size: 20px;
 
 }
+img{
+float: right;
+    
+}
+   
