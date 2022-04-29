@@ -1,23 +1,47 @@
 
-body{
+*{
     font-family: 'Nunito', sans-serif;
 }
 
+
+/* menu */
 .menu{
     float:right;
+    
 }
 
 .menu li{
 
     display:inline;
-    padding: 15px;
+    padding: 20px;
 
 }
 
-.logo{
-    float: left;
-}
-
+/* button */
 button{
     background-color: #EC4067;
+    color: white;
+    height: 250%;
+    border: none;
+}
+
+/* Logo */
+.logo{
+  font-size: xx-large;
+}
+
+.logo span{
+    color:#EC4067;
+}
+
+/* Home Section */
+
+.home{
+    
+    margin-top: 200px;
+    margin-left: 60px;
+}
+
+.home p{
+    size: 20%;
 }
