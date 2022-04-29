@@ -18,12 +18,37 @@
 }
 
 /* button */
-button{
+.main{ 
     background-color: #EC4067;
     color: white;
-    height: 250%;
     border: none;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
 }
+
+.home .b1{
+      
+    background-color:#EC4067 ;
+    color:white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border:none;
+}
+
+.home .b2{
+      
+    background-color: white;
+    color:#EC4067;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    border-color: #EC4067;
+    margin-left: 15px;
+}
+
+
 
 /* Logo */
 .logo{
@@ -43,5 +68,14 @@ button{
 }
 
 .home p{
-    size: 20%;
+    font-size: 20px;
+}
+
+h1{
+    color: #EC4067;
+}
+
+h4{font-weight:  normal;
+    font-size: 20px;
+
 }
