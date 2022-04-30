@@ -93,18 +93,16 @@ button{
 
 .story{
     display: flex;
-    
-    width: 600px;
     flex-direction: row;
     align-items: center;
-    width: 100%;
     font-family: 'Nunito', sans-serif;
    
 }
 
 .story.body{
     padding-top: 0px;
-    padding-right: 100px;
+    
+    margin-right: 1000px;
 }
 .story .img  img{
     
@@ -116,7 +114,18 @@ button{
      
  }
 
+ .story h4{
+    font-size: x-large;
+    padding-top: 20px;
+    padding-left: 200px;
+    font-weight:lighter; 
+ }
 
+ .story h4 span{
+    font-size: small;
+    color:lightslategray
+    
+}
 
 
 
