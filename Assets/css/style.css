@@ -62,11 +62,11 @@ button{
 .home{
     display: flex;
     padding-left: 20px;
-    width: 600px;
+    width: 800%;
     flex-direction: row;
     align-items: center;
     width: 100%;
-    font-family: 'Nunito', sans-serif;;
+    font-family: 'Nunito', sans-serif;
    
 }
 
@@ -84,6 +84,7 @@ button{
  .home h1{
      color: #EC4067;
      font-size: xx-large;
+     width: 200%;
  }
  .home h3{
      font-weight: lighter;
@@ -103,7 +104,7 @@ button{
 
 .story.body{
 
-    margin-right: 1000px;
+    margin-right: 800px;
     width: 600%;text-align: center;
 
 }
@@ -184,13 +185,15 @@ button{
     padding-left: 30px;
     padding-top: 40px;
     font-weight: lighter;
+    margin-left: 180px;
 }
 
   .tech h3{
       font-size: x-large;
       padding-top: 20px;
-      padding-left: 200px;
+      padding-left: 150px;
       font-weight:lighter;
+      
   }
 
   .tech h5{
@@ -200,9 +203,11 @@ button{
     font-weight:lighter;
   }
 
-.tech em{
-    font-style: italic;
+.tech span{
+
     font-size: x-small;
+    font-size: small;
+    color:lightslategray
     
 }
 
