@@ -45,21 +45,45 @@ button{
 
 }
 
+.b2{
+    background-color: white;
+    color: #EC4067;
+    border: #EC4067;
+    border: 2px solid;
+    padding-left: 10px;
+
+}
+
+
+
+/* home section */
+
 .home{
     display: flex;
-    padding-left:  20px;
-    padding-top: 40px;
-    width: 200px;
+    padding-left: 20px;
+    width: 600px;
     flex-direction: row;
     align-items: center;
     width: 100%;
+    font-family: 'Nunito', sans-serif;;
    
 }
- img{
+
+
+.home .body{
+    padding-top: 0px;
+    padding-left: 40px;
+}
+.img  img{
      height: 200%;
      margin-left: 200px;
  }
 
+
+ .home h1{
+     color: #EC4067;
+     font-size: xx-large;
+ }
 
 
 /* technical mentors */
