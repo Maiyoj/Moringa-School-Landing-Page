@@ -50,7 +50,8 @@ button{
     color: #EC4067;
     border: #EC4067;
     border: 2px solid;
-    padding-left: 10px;
+    text-align: center;
+    margin-left: 20px;
 
 }
 
@@ -72,10 +73,10 @@ button{
 
 .home .body{
     padding-top: 0px;
-    padding-left: 40px;
+    padding-left: 170px;
 }
 .img  img{
-     height: 200%;
+     
      margin-left: 200px;
  }
 
@@ -84,6 +85,39 @@ button{
      color: #EC4067;
      font-size: xx-large;
  }
+ .home h3{
+     font-weight: lighter;
+ }
+
+/* Stories */
+
+.story{
+    display: flex;
+    
+    width: 600px;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    font-family: 'Nunito', sans-serif;
+   
+}
+
+.story.body{
+    padding-top: 0px;
+    padding-right: 100px;
+}
+.story .img  img{
+    
+    
+ }
+
+ .story h3{
+     font-weight: lighter;
+     
+ }
+
+
+
 
 
 /* technical mentors */
