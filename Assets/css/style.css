@@ -102,10 +102,10 @@ button{
 }
 
 .story.body{
-    padding-top: 0px;
+
     margin-right: 1000px;
-    padding-right: 600px;
-    width: 600%;
+    width: 600%;text-align: center;
+
 }
 .story .img  img{
     
@@ -141,7 +141,7 @@ button{
     flex-direction: row;
     align-items: center;
     font-family: 'Nunito', sans-serif;
-    padding-top: 40px;
+    padding-top: 50px;
    
 }
 .board .body{
