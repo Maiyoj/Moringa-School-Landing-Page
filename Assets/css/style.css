@@ -264,6 +264,21 @@ button{
 .project h3{
     font-weight: lighter;
 }
+.project h4{
+    font-size: x-large;
+    padding-bottom: 400px;
+    font-weight:lighter;
+    padding-left: 200px;
+
+    
+}
+.project span{
+
+    font-size: x-small;
+    font-size: small;
+    color:lightslategray
+    
+}
 
   
 /* .home{
