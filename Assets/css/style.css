@@ -300,6 +300,11 @@ button{
 .contact span{
     color: #EC4067;
 }
+
+.footer{
+    text-align: center;
+    background-color: lightgrey;
+}
 /* .home{
  text-align:left; 
     padding-left:  20px;
