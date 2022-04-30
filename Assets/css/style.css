@@ -4,23 +4,26 @@ body{
 
 }
 
-.menu{
+.menu ul{
     float:right;
+
     
 }
 
-.menu li{
+.menu ul li{
 
     display:inline;
     padding: 15px;
+    line-height: 80px;
 
 }
 
 .logo{
     float: left;
-    font-size: large;
+    font-size: xx-large;
     font-weight: bold;
     font-family: 'Nunito', sans-serif;
+    line-height: 80px;
 }
 .logo span{
     color: #EC4067;
