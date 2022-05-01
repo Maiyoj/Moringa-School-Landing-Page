@@ -178,6 +178,19 @@ button{
      margin-left: 100px;
  }
 
+ .board .hg{
+    position: absolute;
+     left: 1350px;
+    top: 1800px;
+    color:white 
+  }
+  .board .top{
+     position: absolute;
+      right: 750px;
+     color: white;
+      top:1500px;
+     
+  }
 
 /* technical mentors */
  
@@ -324,6 +337,7 @@ button{
     text-align: center;
     background-color: lightgrey;
     padding: 50px;
+    opacity: 50%;
 }
 
 /* .home{
