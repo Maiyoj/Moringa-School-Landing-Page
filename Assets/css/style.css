@@ -141,14 +141,12 @@ button{
 
 .story .hg{
   position: absolute;
-  /* bottom: 8px; */
   left: 220px;
-  top: 1350px;
+  top: 1300px;
   color:white
 }
 .story .top{
     position: absolute;
-   /* op: 8px; t */
     right: 980px;
     bottom:6px;
     color: white;
@@ -192,6 +190,27 @@ button{
      
   }
 
+
+
+  /* graduation section */
+
+
+  .story .hg2{
+    position: absolute;
+    /* bottom: 8px; */
+    left: 220px;
+    top: 2300px;
+    color: white;
+    
+  }
+  .story .top2{
+      position: absolute;
+     /* op: 8px; t */
+      right: 980px;
+      top:1980px;
+      color:white;
+      
+  }
 /* technical mentors */
  
 .column {
@@ -253,12 +272,36 @@ button{
     right:  16px;
   }
 
+.tech h4{
+position: absolute;
+  left: 220px;
+  top: 2760px;
+ color: white;
+}
 
+.tech .head1{
+    position: absolute;
+      left: 600px;
+      top: 2760px;
+     color: white;
+    }
+
+.tech .head2{
+        position: absolute;
+          left: 1000px;
+          top: 2760px;
+         color: white;
+        }
+    
+.tech .head3{
+            position: absolute;
+              left: 1400px;
+              top: 2760px;
+             color: white;
+            }
+        
 
   /* section project */
-
-
-
   .project{
     display: flex;
     padding-left: 20px;
@@ -288,11 +331,6 @@ button{
 .project h3{
     font-weight: lighter;
 }
-
-
-
-
-
 
 
 .project h4{
@@ -340,26 +378,5 @@ button{
     opacity: 50%;
 }
 
-/* .home{
- text-align:left; 
-    padding-left:  20px;
-    padding-top: 40px;
-    
 
-}
-
-h4{
-    padding-top: 120px;
-    
-}
-
-img{
-    float: right;
-    height:px;
-    width: 20px;
-    
-   
- 
-} 
-*/
 
