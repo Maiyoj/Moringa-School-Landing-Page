@@ -142,8 +142,9 @@ button{
 .story .hg{
   position: absolute;
   /* bottom: 8px; */
-  left: 210px;
-bottom: 2px;
+  left: 220px;
+  top: 1350px;
+  color:white
 }
 .story .top{
     position: absolute;
