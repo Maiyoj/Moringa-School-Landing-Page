@@ -22,8 +22,8 @@
 There are currently no know bugs.
 
 ## Technologies Used
-*HTML
-*CSS
+* HTML
+* CSS
 ## Support and contact details
 Incase you encounter a problem while interacting with the app or have any suggestion, reach out to me at maiyoj12@gmail.com.
 ### License
