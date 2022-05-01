@@ -17,6 +17,8 @@
 
 ## live link
 
+https://maiyoj.github.io/Moringa-School-Landing-Page/
+
 ## Known Bugs
 
 There are currently no know bugs.
