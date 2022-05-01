@@ -28,4 +28,4 @@ There are currently no know bugs.
 Incase you encounter a problem while interacting with the app or have any suggestion, reach out to me at maiyoj12@gmail.com.
 ### License
 Copyright (c) 2022 
-Licensed under the [MIT License] (LICENSE)
+Licensed under the [MIT License] (LICENSE). 
