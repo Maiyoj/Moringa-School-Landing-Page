@@ -5,9 +5,7 @@ body{
     font-family: 'Nunito Sans', sans-serif;
   }
 
-.navbar{
- 
-}
+
 
  ul{
     float:right;
@@ -116,21 +114,8 @@ button{
 
 .body2{
 
-
     width: 50%;
 }
-
-
-.story .img  img{
-    
-    
- }
-
- .story h3{
-     
-     
- }
-
  .story h4{
     font-size: x-large;
     padding-top: 20px;
