@@ -1,9 +1,10 @@
 
   
 
-*{
+body{
 
     font-family: 'Nunito',sans-serif;
+
    
   }
 
@@ -80,6 +81,7 @@ button{
     flex-direction: row;
     align-items: center;
     font-family: 'Nunito', sans-serif;
+    min-width: 1980;
    
 }
 
@@ -128,7 +130,7 @@ button{
  }
 
  .story h3{
-     font-weight: lighter;
+     
      
  }
 
@@ -376,6 +378,9 @@ position: absolute;
     font-family: 'Nunito', sans-serif;
     margin-bottom: 100px;
    
+}
+.contact h1{
+    color:#EC4067;
 }
 
 .contact span{
