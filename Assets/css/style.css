@@ -286,6 +286,7 @@ button{
     align-items: center;
     width: 100%;
     font-family: 'Nunito', sans-serif;
+    margin-bottom: 100px;
    
 }
 
@@ -296,7 +297,9 @@ button{
 .footer{
     text-align: center;
     background-color: lightgrey;
+    padding: 50px;
 }
+
 /* .home{
  text-align:left; 
     padding-left:  20px;
