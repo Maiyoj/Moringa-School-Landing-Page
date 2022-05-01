@@ -20,7 +20,14 @@
     display:inline;
     padding: 15px;
     line-height: 80px;
+   
+}
 
+li a{
+
+   text-decoration: none;
+   color:black
+    
 }
 
 .logo{
