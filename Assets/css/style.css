@@ -79,7 +79,7 @@ button{
     flex-direction: row;
     align-items: center;
     font-family: 'Nunito', sans-serif;
-    min-width: 1980;
+    min-width: 200%;
     
    
 }
@@ -142,7 +142,7 @@ button{
   position: absolute;
   left: 220px;
   top: 1300px;
-  color:white
+  color:white;
 }
 .story .top{
     position: absolute;
@@ -161,8 +161,9 @@ button{
     align-items: center;
     font-family: 'Nunito', sans-serif;
     margin-top: 100px;
-    width: 100%;
+
     margin-bottom: 100px;
+    min-width: 110%
 }
 .board .body{
     padding-top: 0px;
@@ -290,6 +291,7 @@ position: absolute;
           left: 1000px;
           top: 2760px;
          color: white;
+    
         }
     
 .tech .head3{
